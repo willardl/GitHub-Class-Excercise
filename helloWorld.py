@@ -10,3 +10,10 @@ SyntaxError: Missing parentheses in call to 'print'
 >>> print("Hello World")
 Hello World
 >>> 
+print
+<built-in function print>
+>>> print("Hello World");
+Hello World
+>>> print("Add new print line")
+Add new print line
+>>> 
